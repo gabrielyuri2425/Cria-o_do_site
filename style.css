@@ -5,7 +5,10 @@ header{
     justify-content:space-around;
     height: 100px;
 }
+body {
 
+    font-family: 'Oswald', sans-serif;
+}
 .logo-cabecalho{
 width: 60% ;
 
